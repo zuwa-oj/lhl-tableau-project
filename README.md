@@ -50,4 +50,5 @@ A similar interesting finding was observed where the Approach and Landing Roll f
 ## Future Goals
 
 - Building more visualizations
-- Using the Tableau Story feature for presentation of results.
+- Using the Tableau Story feature for presentation of results
+- Integrating flight path data to increase understanding of strike patterns.
